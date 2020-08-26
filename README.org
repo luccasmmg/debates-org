@@ -1,0 +1,129 @@
+#+TITLE: Lista De Todos os Debates
+
+* Lista :debates:
+** ClubeDaLuta
+[[file:.//ClubeDaLuta/BanalidadeDoMalAdj.org][BanalidadeDoMalAdj]]
+
+[[file:.//ClubeDaLuta/BemVencerMalContosInfantis.org][BemVencerMalContosInfantis]]
+
+[[file:.//ClubeDaLuta/CriancasDoutrinadasPoderemProcessarOsPais.org][CriancasDoutrinadasPoderemProcessarOsPais]]
+
+[[file:.//ClubeDaLuta/ECAQDemocraciasSecularesTribunaisEspeciais.org][ECAQDemocraciasSecularesTribunaisEspeciais]]
+
+[[file:.//ClubeDaLuta/EmpresasTecRecusarCensuraAdj.org][EmpresasTecRecusarCensuraAdj]]
+
+[[file:.//ClubeDaLuta/MocaoGuia.org][MocaoGuia]]
+
+** DebateOnline
+[[file:.//DebateOnline/EnquantoONGAceitarDinheiroDeEmpresas.org][EnquantoONGAceitarDinheiroDeEmpresas]]
+** Formacoes
+[[file:.//Formacoes/BuildingArguments.org][BuildingArguments]]
+
+[[file:.//Formacoes/Extensoes.org][Extensoes]]
+** iMorial
+[[file:.//iMorial/FMIEmprestimosCondicionais.org][FMIEmprestimosCondicionais]]
+
+[[file:.//iMorial/PoliticaDeRespeitabilidade.org][PoliticaDeRespeitabilidade]]
+
+[[file:.//iMorial/RapBensEconomicosAdj.org][RapBensEconomicosAdj]]
+
+[[file:.//iMorial/VeganismoDanosAnimaisVSDanosHumanosAdj.org][VeganismoDanosAnimaisVSDanosHumanosAdj]]
+
+[[file:.//iMorial/ViloesQueNascemMalsVSSeTornam.org][ViloesQueNascemMalsVSSeTornam]]
+** Misc
+[[file:.//Misc/GlorificacaoBolsaDeValoresAdj.org][GlorificacaoBolsaDeValoresAdj]]
+
+[[file:.//Misc/IdealizacaoModernaDeLideresCivisComoModeradosAdj.org][IdealizacaoModernaDeLideresCivisComoModeradosAdj]]
+
+** ProAm
+[[file:.//ProAm/AscencaoAteismoRichardDawkins.org][AscencaoAteismoRichardDawkins]]
+
+[[file:.//ProAm/PaisesIslamicosSudesteAsiaticoMundoArabeVSChinaERussia.org][PaisesIslamicosSudesteAsiaticoMundoArabeVSChinaERussia]]
+
+** RoundRobin
+[[file:.//RoundRobin/PayTuitionPercentageOfFutureEarningsAdjRoundRobin.org][PayTuitionPercentageOfFutureEarningsAdjRoundRobin]]
+
+** SDUL
+[[file:.//SDUL/AlgoritimosDecidindoComBaseNaMoralSocial.org][AlgoritimosDecidindoComBaseNaMoralSocial]]
+
+[[file:.//SDUL/InvestirEmMegasCidadesVSEspalharProducao.org][InvestirEmMegasCidadesVSEspalharProducao]]
+
+[[file:.//SDUL/LipstickFeminism.org][LipstickFeminism]]
+
+[[file:.//SDUL/MicroTransacoesVideogames.org][MicroTransacoesVideogames]]
+
+[[file:.//SDUL/PararDeExportarArmasArabiaSaudita.org][PararDeExportarArmasArabiaSaudita]]
+
+** TreinoIndividual
+[[file:.//TreinoIndividual/AumentoSignificativoBigDataTomadaDecisoes.org][AumentoSignificativoBigDataTomadaDecisoes]]
+
+[[file:.//TreinoIndividual/BRICSFazeremSuasPropriasInstituicoes.org][BRICSFazeremSuasPropriasInstituicoes]]
+
+[[file:.//TreinoIndividual/DeclinioDasHumanidades.org][DeclinioDasHumanidades]]
+
+[[file:.//TreinoIndividual/ECApoiaPloriferacaoDoUsoDeDrones.org][ECApoiaPloriferacaoDoUsoDeDrones]]
+
+[[file:.//TreinoIndividual/ECAQOrgAmbientalLobbyAlteracaoPoliticasAmbientaisVSIndividuais.org][ECAQOrgAmbientalLobbyAlteracaoPoliticasAmbientaisVSIndividuais]]
+
+[[file:.//TreinoIndividual/ECLamentaOConceitoDeMartirio.org][ECLamentaOConceitoDeMartirio]]
+
+[[file:.//TreinoIndividual/EUAFornecerVisasTrabalhadoresMenosDireitos.org][EUAFornecerVisasTrabalhadoresMenosDireitos]]
+
+[[file:.//TreinoIndividual/FimDasBarreirasTarifariasRapidamente.org][FimDasBarreirasTarifariasRapidamente]]
+
+[[file:.//TreinoIndividual/FinanciamentoUniaoEuropeiaCombateFakeNews.org][FinanciamentoUniaoEuropeiaCombateFakeNews]]
+
+[[file:.//TreinoIndividual/PoliciamentoOlhoNoCeu.org][PoliciamentoOlhoNoCeu]]
+
+[[file:.//TreinoIndividual/ReparacaoPorParteEmpresasAutomatizacao.org][ReparacaoPorParteEmpresasAutomatizacao]]
+
+[[file:.//TreinoIndividual/ThisHouseOpposesTheCentralityOfSPort.org][ThisHouseOpposesTheCentralityOfSPort]]
+
+[[org:Debates/TreinoIndividual/EspecialistasPoliticaEconomica.org][EspecialistasPoliticaEconomicaVetarPartidos]]
+** TreinosSDUC
+[[file:.//TreinosSDUC/MirroringFeminismo.org][MirroringFeminismo]]
+
+[[file:.//TreinosSDUC/THWCreatePublicHousingForThePoorInWealthyAreas.org][THWCreatePublicHousingForThePoorInWealthyAreas]]
+
+[[file:.//TreinosSDUC/UrbanizariaEReconheceriaFavelasAdj.org][UrbanizariaEReconheceriaFavelasAdj]]
+
+** TreinosUDC
+[[file:.//TreinosUDC/100AnosMelhoresQueAgora.org][100AnosMelhoresQueAgora]]
+
+[[file:.//TreinosUDC/AcabarComPaywallEmJornais.org][AcabarComPaywallEmJornais]]
+
+[[file:.//TreinosUDC/CandidatosMostrandoReligiao.org][CandidatosMostrandoReligiao]]
+
+[[file:.//TreinosUDC/ComprarLocalVSGLobalizacaoAdj.org][ComprarLocalVSGLobalizacaoAdj]]
+
+[[file:.//TreinosUDC/ECLamentaDecadaDefinicao.org][ECLamentaDecadaDefinicao]]
+
+[[file:.//TreinosUDC/ESL_EUDC_Guerra_Politica_EconomicaAdj.org][ESL_EUDC_Guerra_Politica_EconomicaAdj]]
+
+[[file:.//TreinosUDC/FornecerAnistiaAGruposArmados.org][FornecerAnistiaAGruposArmados]]
+
+[[file:.//TreinosUDC/GruposPoderemPagarParaMulheresNaoAbortarem.org][GruposPoderemPagarParaMulheresNaoAbortarem]]
+
+[[file:.//TreinosUDC/MarketingDeCausasAdj.org][MarketingDeCausasAdj]]
+
+[[file:.//TreinosUDC/NExisteBeloVSTodosCorposBelos.org][NExisteBeloVSTodosCorposBelos]]
+
+[[file:.//TreinosUDC/VitimaTerVozNaPunicaoAdj.org][VitimaTerVozNaPunicaoAdj]]
+** UAI
+[[file:.//UAI/AumentarOsGastosVSPoliticaLiberalizante.org][AumentarOsGastosVSPoliticaLiberalizante]]
+
+[[file:.//UAI/GeorgeWBushTribunalInternacional.org][GeorgeWBushTribunalInternacional]]
+
+[[file:.//UAI/LamentaDeclinioMarxismo.org][LamentaDeclinioMarxismo]]
+
+[[file:.//UAI/Matar1IndividuoVSRiquezaInimaginavel.org][Matar1IndividuoVSRiquezaInimaginavel]]
+
+[[file:.//UAI/ProvedoresDeINternetRegulandoConteudoOuNao.org][ProvedoresDeINternetRegulandoConteudoOuNao]]
+** CoimbraDigital
+[[org:Debates/CoimbraDigital/BidenAgressivoVSBoringAdj.org][BidenAgressivoVSBoringAdj]]
+
+[[org:Debates/CoimbraDigital/PlanetaATEAAdj.org][PlanetaATEAAdj]]
+** 3GVDebates
+[[org:Debates/3GVDebates/PayWallNoticiasAdj.org][PayWallNoticiasAdj]]
+
+[[org:Debates/3GVDebates/VoucherEducacaoSwingGV.org][VoucherEducacaoSwing]]
