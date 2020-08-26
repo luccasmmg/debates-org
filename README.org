@@ -120,10 +120,8 @@
 
 [[file:.//UAI/ProvedoresDeINternetRegulandoConteudoOuNao.org][ProvedoresDeINternetRegulandoConteudoOuNao]]
 ** CoimbraDigital
-[[org:Debates/CoimbraDigital/BidenAgressivoVSBoringAdj.org][BidenAgressivoVSBoringAdj]]
-
-[[org:Debates/CoimbraDigital/PlanetaATEAAdj.org][PlanetaATEAAdj]]
+[[file:CoimbraDigital/BidenAgressivoVSBoringAdj.org][BidenAgressivoVSBoringAdj]]
+[[file:CoimbraDigital/PlanetaATEAAdj.org][PlanetaATEAAAdj]]
 ** 3GVDebates
-[[org:Debates/3GVDebates/PayWallNoticiasAdj.org][PayWallNoticiasAdj]]
-
-[[org:Debates/3GVDebates/VoucherEducacaoSwingGV.org][VoucherEducacaoSwing]]
+[[file:3GVDebates/PayWallNoticiasAdj.org][PayWallNoticiasAdj]]
+[[file:3GVDebates/VoucherEducacaoSwingGV.org][VoucherEducacaoSwing]]
