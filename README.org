@@ -79,7 +79,7 @@
 
 [[file:.//TreinoIndividual/ThisHouseOpposesTheCentralityOfSPort.org][ThisHouseOpposesTheCentralityOfSPort]]
 
-[[org:Debates/TreinoIndividual/EspecialistasPoliticaEconomica.org][EspecialistasPoliticaEconomicaVetarPartidos]]
+[[file:TreinoIndividual/EspecialistasPoliticaEconomica.org][EspecialistasPoliticasEconomicasVetarPartidos]]
 ** TreinosSDUC
 [[file:.//TreinosSDUC/MirroringFeminismo.org][MirroringFeminismo]]
 
@@ -124,4 +124,5 @@
 [[file:CoimbraDigital/PlanetaATEAAdj.org][PlanetaATEAAAdj]]
 ** 3GVDebates
 [[file:3GVDebates/PayWallNoticiasAdj.org][PayWallNoticiasAdj]]
+
 [[file:3GVDebates/VoucherEducacaoSwingGV.org][VoucherEducacaoSwing]]
