@@ -1,0 +1,52 @@
+#+TITLE: Sovai
+
+
+- modelo -> matricular as criancas, n botar elas pra trabalhar, se nao tiverem condicoes financeiras de prover para essa crianca pelo menos cadastrarem ela em programas de financiamento
+- oferecer
+- pq a gente acredita que voucher é falho
+- economia de escala
+- muito mais
+- compras maiores
+- isso dá poder as escolas particulares, MEC maior parte é lobby
+- voucher já foi provado nao ser efetivo
+- implica em um gasto menor
+- competicao
+- qual o problema do voucher?
+- existe uma corrida para baixo
+- como a mocao muda?
+- vc cria uma base minima
+- no pior dos casos vc tem a escola publica
+- isso implica em diminuir a burocracia do Estado, pq vai diminuir criacao do MEC, cargos de gestao, etc, tudo isso vai ser transferido para as escolas publicas,
+- a gente já provou que na maior parte dos estados nao existe um governo funcionar
+  + no melhor dos casos poderia ate ser melhro um governo efetivo oferecendo esses servicos
+  + mas o que a gente tem sao estruturas extrativistas
+  + brasil exemplo do lobby dos servidores
+  + a maior parte dos paises subdesenvolvidos é o mesmo
+  + o estado simplesmente n tem a estrutura pra chegar em muitos locais
+  + paises na africa, ou mesmo em certos locais do brasil, a infraestrutura necessaria é muito menor,
+- no melhor dos casos da oposicao, uma suecia da vida, em qeu a gente acredita que
+* case 1op
+- servico publico sucateado -> mocao nao é o brasil, a gente sabe que o problema n é ser publico
+  + mesmo assumindo o caso do brasil deles, um aluno de escola militar tem gastos mensais muito superiores do que um aluno de
+  + desoneracao
+  + mercantilizacao da educacao
+    - o dela assume que pobre nao tem os melhores interesses em mão, as pessoas tem a escolha, ate porque o dinheiro é de graça
+  + algumas pessoas bolsa integral ou parcial
+    - a gente assume que quanto menos vc ganha mais vc vai receber
+- por que nos acreditamos que Estados tendem a ser corrupos
+  + por que todo o sistema de gestão se baseia no fato de os gestores sao bem intencionados
+  + e por que a gente acredita que isso tende a nao acontecer?
+    - o acemoglu em why nations fail fala muito disso
+    - todos os interesses de uma classe governante estao em fornecer extrativismo,
+    - no brasil isso implica por exemplo no fato de que todos os servidores terem interese em aumentar os salarios
+      + ex: 120 bilhoes num periodo de pandemia
+    - isso significa que Estados funcionais sao a excecao, e não a regra
+    - e como a gente tem Estados funcionais
+    - por meio de estruturas de serviços e comunidades inclusivas
+    - em que as pessoas que sao afetadas pelas consequencias desses servicos, tem poder de voz, dentro dessa tomada de decisoes
+    - e qual o problema aqui?
+      + é que pra o sistema da oposicao funcionar, a gente precisa de instituicoes politicas inclusivas, que vao fornecer que esses pais tenham uma voz nesse esnino
+      + mas isso nao existe na moção, e é muito dificil, porque isso implicaria em uma mudança politica em que abrangeria todo o sistema politico, e nao só a educacao
+      + existe uma resistencia
+- POI: mesa, perceba que todos os argumentos que a oposicao usa, podem ser usados pra ser contra, cota e prouni, dificuldade de transporte, sucateamento do publico, preconceito, falta de inclusao, discernimento na escolha do curso, e ainda SIM esses programas sao considerados um grande sucesso por quem os utiliza, gente meia passagem existe, é 2 reais pra atravessar uma cidade.
+- POI: eu... nunca falei de estado assistencialista ou nao, o brasil é assistencialista e continua nao conseguindo oferecer servicos publicos, eu usei os Estados em que 6 setimos da populacao mundial vivem

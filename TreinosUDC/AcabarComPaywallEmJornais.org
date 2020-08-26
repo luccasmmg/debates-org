@@ -1,0 +1,107 @@
+#+TITLE: DT_05_06_2020
+- Respondendo o POI do Bruno, isso só seria verdade se houvesse um equilibrio,
+  todo mundo produzisse e consumisse o mesmo, no nosso mundo existe um mecanismo
+  pra transferir renda para quem mais produz advindo de quem menos produz, e de
+  quem n produzem nada(Google, pessoas fisicas com dinheiro,
+  laboratorios etc)
+
+- mas no caso as revistas vao continuar existindo, tendo prestigio e etc, a
+  unica diferença é que n vai ter pagamento, algumas vao ter muito mais
+  prestigio que as outras. Isso nao vai mudar, os interesses desses joranalistas
+  continua. n entendi como nao cobrar, ia acabar com as revistas.
+
+- Por que os mais provavel no mundo de voces não é que invés de jornalistas
+  decidindo tudo, seriam
+  tecnicos do governo a decidir ou representantes do empresariado?
+
+- Ref:
+  - Status quo atual é que a populacao como um todo é muito caro.
+  - Perda de verba é inexpressiva frente a moralidade e condicoes de cidadania.
+  - Ele fala que vai haver uma diminuicao do tecnicismo da linguagem cientifica,
+    dá como mecanismo as pessoas agr com acesso fazerem pressao pra isso mudar.
+    Ele n explica porque pessoas que n tem nenhum poder de formacao de agenda
+    dentro da academia, teriam essa capacidade.
+- Qual o status quo? O status quo é que o grande público já tem acesso a esses
+  jornais cientificos, em grande medida devido ao sci-hub e a libgen. Isso pra
+  quem nao está inserido numa instituicao de ensino superior, pra quem tá, boa
+  parte delas conseguem ter acesso pelos contratos das universidades com os
+  provedores de conteudo academico.
+- Nós acreditamos que a maior parte das tentativas de acabar com esses serviços
+  vao ser essencialmente infrutiferas porque a internet é um mecanismo
+  descentralizado, as pessoas não tem interesse de deixar de ser...
+- Nós enquanto oposição defendemos a manutenção do status quo. Nao é nosso onus
+  defender uma maior punicao pra quem pirateia artigo. Apenas manter do jeito
+  que está.
+- Por que nos acreditamos que o status quo é bom?
+  - Quem é o real alvo dessas paywall, no jstor no researchgate etc
+  - Não é o aluno da federal brasileira que só quer pegar um artigo pra ganhar
+    uma discussao na internet
+  - Sao as grandes universidades, ou pior ainda o Google que paga milhoes de
+    reais pras universidades, pra poder colocar os materiais no google scholar, que tem condicoes de entrar em contratos
+    milionarios com as distribuidoras dessas pesquisas, e sao justamente essa
+    que caso fossem pegas burlando os paywall poderiam ser processadas
+    - Por que nos nao acreditamos que o paywall segrega
+      - Porque quem n tem condicoes de pagar, pirateia
+        - Essa pessoa n vai ser procesasda? Pq > Porque pelo menos motivo da
+          pirataria, n vale a pena ir atras de pegar todo mundo que pirateia o
+          ultimo episodio de game of thrones pq exige um custo
+          - Como assim? Primeiro voce precisa achar todo mundo que pirateou o
+            seu artigo, ou seja, voce vai precisar ir atras dos servidores do
+            sci-hub ou algo do tipo, gente que n tem interesse nenhum de ter
+            fornecer essas informacoes
+            - Depois vc ainda vai precisar navegar toda uma legislacao
+              especifica do pais daquela pessoa. Tudo isso pra tirar algumas
+              centenas de reais de alguem que só fez piratear um artigo.
+        - O que sobra?
+          - As grandes universidades, que fornecem esse acesso aos seus alunos,
+            e que tem condições de financiar isso, seja pelo dinheiro de
+            doacoes, seja pela cobrança de tuition etc
+    - Como nos acreditamos que seria um mundo com esse tipo de abolicao
+      - O numero geral no acesso permanece o mesmo
+        - Pq? A unica diferença é que inves de usar o scihub eu vou direto no jsor
+        - Mas agr os produtores de conteudo e os pesquisadores nao tem mais essa
+          fonte de renda
+          - Isso é principiologicamente incorreto porque nos enquanto sociedade
+            acreditmaos que as pessoas merecem ser pagas pelo seu trabalho
+            - No caso de um paper numa revista das mais conceituodas, isso é
+              coisa de milhoes e milhoes de dolares
+            - E se de repente vc OBRIGA essa pessoa a oferecer isso de graça
+          - A consequencia?
+            - Continua comendo
+            - Continuar alugel
+            - Continuar tendo que sustentar sua familia
+          - Vai suprir outras formas
+            - Que formas essas?
+              - A universidade se vendo incapaz de suprir os seus gastos uma vez
+                que perdeu uma fonte de renda
+              - Passa aser obrigada a buscar outras formas
+                - Quais?
+                - Financiamento privado
+                - Financiamento publico
+                - Aumento na tuition
+                - Corte de gastos
+                - 1 -> É ruim porque agora nós temos interesses excusos dentro
+                  da formacao de conhecimento
+                  - Esse mercado de ideias no caso dos artigos é bom, porque
+                    voce premia os artigos que sao requeridos nao por pessoas
+                    externas, mas pelas pessoas que estao no mesmo meio
+                    - Ou seja - Quem decide que artigo é mais valioso, sao os
+                      proprios pesquisadores das outras universidades, que vao
+                      uqerere ter acesso aquele artigo, no contrafactual do
+                      outro mundo, quem decide quais artigos merecem ser
+                      produzidos, sao interesses corporativos
+                      - No pior dos casos essas pessoas n iriam financiar
+                        artigos como aqueles que vao contra seus interesses
+                        - Se é um empresa de petroleo ou os irmaos koch n vai
+                          querer artigos contra aquecimento global
+                        - No mundo medio a unica pesquisa que vai ser feita vai
+                          ser aquela que tiver aplicacao direta na industria ou
+                          no serviço publico
+                        - E no melhor dos casos, os artigos que vao ser mais
+                          produzidos. nao vao ser mais escolhidos por quem tem
+                          mais interesse na producao de boa ciencia
+                - 2 -> Em relacao ao aumento da tuition os impactos sao claros >
+                  Vc acaba precisando. aumentar o custo para os alunos, o que
+                  diminui as chances de amplo acesso a outras facetas da
+                  educacao pra essas pessoas
+                - 3 -> Corte de gastos eu n preciso explicar

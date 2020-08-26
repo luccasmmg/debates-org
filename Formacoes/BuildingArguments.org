@@ -1,0 +1,80 @@
+#+TITLE: Building Arguments - Mainly Mechanisms
+
+* Afirmação
+- Sobre o que você vai falar
+  - "Esta moção aumentaria o número de mortes de civis" -> "EC tiraria o poder de
+    sentir medo dos soldados"
+  - "Esta moção aumentaria o ódio as minorias" -> "EC permitiria que houvessem
+    tribunais religiosos voluntários"
+  - "Esta moção aumentaria o número de casos em que as pessoas são acusadas
+    erroneamente" -> "EC não consumiria as obras de artistas que foram acusados
+    de cometer crimes graves"
+  - "Esta moção melhoraria as políticas a curto prazo" -> "EC preferia um
+    sistema penal formulado apenas por técnicos"
+  - "As pessoas não deixariam de confessar" -> "EC obrigaria os padres a reportar crimes no confessionario"
+
+* Análise
+- Mindset de vários motivos -> Argumentos robustos
+- A regra de polegar é 5 "camadas"
+** Saltos lógicos e ônus?
+- "EC aumentaria os impostos no Brasil"
+- Vai melhorar a vida das pessoas -> Aumento de impostos -> Quanto mais impostos
+  maior  a arrecadação -> Quanto maior a arrecadação maior dinheiro disponível
+  para causas sociais -> () -> Vida melhor para pessoas vulneráveis
+- "EC aplaude arte que tem o objetivo de ofender"
+- Afirmação(Esse tipo de arte avança causas progressivas) -> As pessoas vão ver
+  a arte -> As pessoas vão pensar sobre -> A partir do momento em que elas
+  passam a pensar sobre -> Elas começam a aceitar aquela causa e concordar com ela.
+** Analogia
+- Único jeito de provar argumentos e refutações morais
+- Exemplo: EC acredita que é moralmente injustificável, não doar todo dinheiro
+  acima do mínimo para a caridade
+- Analogia -> Se a moção for verdade, então também é necessário doar o rin?
+- Exemplo 2: EC acredita que os pobres do mundo estão justificáveis em fazer uma
+  revolução marxista
+- Analogia 2 -> Um grupo de judeus, que estavam cercados, sem nenhuma chance de
+  viver, partiram para o ataque, porque a luta contra o mal independente das
+  consequências , tem seu valor.
+
+* Mecanismos
+** Psicologia
+1. Medo torna as pessoas irracionais
+   1. As pessoas superestimam o impacto de certas coisas(Ex: Ataque terrorista)
+2. Viés de Confirmação
+   1. Nós geralmente filtramos as coisas que não concordamos, nós na verdade
+      procuramos as coisas que confirmam os nossos viés.
+3. Mecanismo dos héroi
+   1. É muito díficil você mudar as suas opiniões
+   2. As pessoas geralmente se identificam como atores morais bons
+** Sociologia
+1. Mentalidade de manada
+   - Quando estão juntas ficam menos suscetíveis a ter pensamentos indivíduais
+2. Necessidade de pertencimento
+   - As pessoas querem sentir que o grupo as valoriza e as considera um membro
+     importante Ex: Violência em protestos, violência na guerra
+** Biologia
+1. Instinto de auto-preservação
+2. Pre-determinismo(Biologia/Sociologia)
+** Religião
+1. Medo da morte -> Contraste entre inferno e céu
+2. Lideres são uns condutores à Deus -> Divergir do lider é divergir de Deus
+** Politica
+1. Interesse dos politicos -> Serem eleitos e permanecerem no poder
+   1. Curto-prazismo
+   2. Votos das minorias
+** Economia
+1. Custos de oportunidade
+2. Oferta e demanda
+** Midia
+1. Incentivos da midia -> Lucro com base em clicks
+2. Algoritimos de midias sociais -> Quanto mais engajamento melhor
+
+* Exemplos
+- Exemplos não servem para provar, mas para enfatizar algo
+- Ou para provar que algo é provável -> Geralmente estatísticas
+* Impacto
+- O que mudou no mundo real
+- Impactos indivíduais -> O que muda na vida daquela pessoa -> A vida melhora ou piora
+- Coletivo -> A sociedade melhorou ou piorou
+- Falta de análise de impacto(Backlash, endotrinação, crescimento da
+  extrema-direita) -> Espectro

@@ -1,0 +1,67 @@
+#+TITLE: Debate_01
+
+- Disclaimers > Nós não acreditamos que as leis no geral sao muito longes da
+  moral atual
+- Por que? -> Porque no geral as leis tendem a ser abstratas, justamente porque
+  precisam abarcar o maior grau de situacoes faticas possiveis
+- Isso significa que o direito tende a poder ser maleavel dentro das mãos do juiz
+- Portanto porque nos acreditamos que o mundo em que esses algoritmos pudessem
+  acessar diretamente a moral da população poderia ser melhor?
+  - Alguns casos
+  - Crimes ambientais
+  - Crimes do colarinho branco
+  - Crimes que envolvem grandes empresas
+  - Na real qualquer decisão judicial que envolva um polo com alto poder
+- E por que nesses casos seria superior?
+  - Porque nos casos o que acontece atualmente é que a população vota em
+    representantes > Esses representantes em tese transmitem a moral da
+    população nas leis
+  - Entretanto, nesse processo, nós temos influencias externas, justamente dos
+    grandes contextos de poder
+    - Grandes empresas
+    - O capital no geral
+  - Portanto toda lei atual e decisão judicial atual tem dentro de sim um certo
+    grau de ilegitimdade
+  - Justamente porque as leis tendem a ter influencia desse grande capital?
+    - Qual o mecanismo?
+    - Politicos tem o interesse de se reeleger
+    - E como eles conseguem isso? -> Com acesso a grande midia, que exige
+      dinheiro, ao mesmo tempo em que precisam apelar para a população em geral
+    - Um servo dois senhores
+  - E como isso impacta de forma ruim?
+    - No geral das leis e decisões judiciais tendem a beneficiar aqueles que tem
+      capacidade de entrar na tomada de decisões e na tomada de agenda
+    - E por que isso é ruim?
+      - Por que no geral essas pessoas tem interesses diametralmente opostos do
+        da população como um todo
+      - Eles tendem a querer menos gastos sociais, com saude educacao.
+      - Decisoes judiciais que envolvam penas mais brandas a empresas que se
+        envolvam em litigios trabalhistas etc
+      - Tudo isso pode ser influenciado por decisão judicial, não apenas por
+        lei, ainda mais nos tempos atuais onde os juizes tem muito poder, graças
+        as correntes modernas que dao muito poder ao juiz
+    - Como a moção portanto modifica esse cenario?
+      - Ao retirar completamente a influencia desses grupos dentro da tomada de decisões
+      - O que isso significa? -> Que a decisão passa a ser tomada com base na
+        média da moral de toda a população
+      - E deixa de ser tomada com base nos interesses de uma minoria
+    - Algumas refutacoes previas
+      - A populacao no geral é burra?
+        - Nós acreditamos que embora isso seja verdade -> Ex: Casos de
+          encarceramento em massa, etc -> No sistema atual, essas coisas
+          acontecem da mesma forma, justamente porque nos casos em que os
+          interesses da população no geral e os interesses das elites não entram
+          em clash, o mais provavel é que eles se submetam a população,
+          justamente para manter a façada de legitimidade.
+          - Ex: Encarceramento em massa de juventude periferica -> Não existe
+            nada nos interesses das elites que vá contra prender preto e pobre
+        - Falta de segurança juridica?
+          - É bom que seja baseado na lei porque dá pra prever -> Ora, se antes
+            as leis eram traduzidas para a situação fática por juizes, que
+            muitas vezes sao completamente diferentes, entre si, agora a gente
+            teria uma única inteligencia artifical, que seria responsável por
+            toda as decisões, portanto seria na verdade mais previsivel ainda.
+          - Por ultimo a gente já tem exemplos como os paises anglo-saxoes ->
+            em que as leis nao sao formadas pelo legislativo, mas pelo proprio
+            judiciario, e pela moral encravada no judiciario, judiciario que nao
+            foi eleito, e esses paises funcionam relativamente bem.

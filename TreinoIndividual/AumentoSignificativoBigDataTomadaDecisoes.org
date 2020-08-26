@@ -1,0 +1,81 @@
+#+TITLE: TreinoPrimeirasCasas26_05_2020
+
+-> EC ¨apoia" o aumento significativo > O verbo é apoiar > POrtanto devemos
+levar em conta nao o modelo do 1 gov, mas o cenario mais provavel
+-> O que nos entendemos por esse cenario? Esses mecanismos já sao usados, mas
+por enquanto eles sao usados para responder perguntas especificas > Ex: Qual o
+local com maior incidencia de crimes? Onde eu vou poder colocar mais patrulha,
+ou quais sao os pontos de engasge na malha rodiviaria onde eu posso botar uma
+rotatoria etc, a decisão final é sempre assistida por um ser humano, enquanto
+que o que nos estamos vendo é cada vez mais as maquinas sendo dadas guidelines
+gerais por exemplo: "Diminua o engarrafamento na cidade" e os seres humanos
+apenas agindo confome as decisoes
+diferente de uso de modelos preditivos para COLETA DE INFORMAÇÕES
+POI > E quem disse que programadores também nao sao racistas, classistas de
+origem rica etc > No caso de vcs quem faz esse algoritmo provavelemnte nem vai ser do
+mesmo país de onde ele vai ser aplicado
+
+* Qual o cenario mais provavel?
+- Esses modelos são formulados em dois grande campos
+  - De um lado nós temos o vale do silicio nos EUA
+    - Coisas como big data principalmente em marketing e propaganda
+    - Algortimos de mercado financeiro, etc
+    - Que se extrapolam pro setor público
+  - De um outro lado nós temos o polo da China
+    - Onde essas coisas já nascem no seio governamental
+      - Ex: O sistem de crédito social
+      - Ex 2: Os filtros da grande barreira de internet
+- Como nós acreditamos que esses mecanismos se desenvolvem?
+  - Disclaimer > Esses modelo sofrem víeses fortissimos de seus formuladores
+    Ex 1 > Algoritmos de justiça criminal que atualmente já são usados e que
+    punem desproporcionoalmente negros e latinos (Maior probabilidade de roubarem)
+    Ex 2 > O proprio modelo de chat da microsoft que acabou sendo neonazista
+  - Por que nos acreditamos que é o mais provavel?
+    - Por que está nos interesses desses governos o fazer
+    - Vc possibilita um controle muito maior da sua populacao
+    - Pq a maquina diferente do ser humano, consegue processar muito mais
+      informacoes, consegue ver literalmente todas as cameras possíveis,
+      consegue fazer um sistema de vigilancia que seria o sonho molhado de um
+      ditador qualquer
+    - E porque está na propria capacidade desses grandes polos
+      - O proprio exemplo do vale do silicio > Essas pessoas que formulam esses
+        algoritmos sao geralmente homens, brancos, ci, de uma estrato social
+        elevado
+      - O que isso significa? Que eles vao montar esses algoritmos com base nos
+        não só no seus interesses como nos seus víeses. Justamente porque eles
+        já fazem isso nas suas proprias criações > Quem nunca viu as 1 milhao de
+        produtos vindos de lá que só resolvem problemas especificos daquelas
+        populacoes e n se aplicam pro resto do mundo
+      - Qual a consequencia portanto? O exemplo mais tragico fica na area
+        criminal, onde nós teriamos algoritmos com os mesmos víeses e
+        preconceitos que o sistema prisional já tem, mas que agr tem uma
+        capacidade muito maior infligir danos, e sem ACCOUNTABILITY, porque na
+        maior parte das vezes quanto mais complexos esses algoritmos se tornam,
+        eles começam a usar mecanismos probalisticos que nem mesmo os seus
+        criadores tem capacidade de compreender.
+        - O melhor exemplo disso > ALgoritmo facebook que montou a propria lingua
+      - Os membros do poder tem interesses, sao corruptos, etc > A diferença é
+        que sao pessoas, no nosso caso nós temos ou esses algoritmos serem
+        feitos por um governo autoritário, ou pelo outro nós termos empresas que
+        não tem moral nem conceito de bem, e que necessariamente vai ter
+        interesses excusos.
+      - E veja bem ADJUDICACAO > Se lembram daquele caso repetitivo que o danilo
+        falou? Isso piora, porque enquanto antes a gente tinha casos em que os
+        humanos falham e as vezes não
+
+* E no melhor caso?
+- Eles nao tem preconceitos > Eles fazem seu trabalho da melhor forma possível,
+  por que nos ainda preferimos o sistema atual?
+- Por que no sistema atual, existe accountability > Eu posso traçar a decisão
+  final para uma pessoa > Isso significa que essa pessoa pode ser retirada ou
+  colocada a qualquer momento
+- Isso significa que caso a sociedade como um todo decida mudar as suas
+  prioridades, ela consegue por meio do seu VOTO, fazer isso
+- Ou seja, boa parte das vezes um individuo que nào tem o conhecimento,
+  provavelmente nao vai conseguir recorrer, o que voce adiciona é justamente um
+  mundo quase kafkiano, em que ninguem consegue entender de onde vieram as decisoes.
+- No cenario do governo essa sociedade no COMPARATIVO passa a ter uma capacidade
+  de mudar de ideia muito maior > Porque seria preciso mudar o algoritmo > Isso
+  é exarcebado quando a gente percebe que muitas vezes existem contratos de
+  longo prazo pra esse tipo de coisa, porque não é factivel que a sociedade como
+  um todo entenda esses processos.

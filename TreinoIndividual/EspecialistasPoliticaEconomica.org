@@ -1,0 +1,73 @@
+#+TITLE: EspecialistasPoliticaEconomica
+
+* Moção
+- THW exige que as políticas econômicas dos partidos políticos sejam aprovadas
+  por um painel independente de especialistas antes de serem usadas em campanhas
+* Case
+- Métrica
+  - Mundo em que nós temos uma politica econômica que melhor se alinha com os
+    interesses e anseios da populcã́o, e qeu consegue melhor retirar as pessoas
+    da pobreza
+- Disclaimer:
+  - Meios VS Fins de politica economica
+  - Governo menor VS Governo maior
+  - Gasto publico VS Iniciativa privada
+  - Esse painel não teria poder de definir os fins, apenas os meios, e reprovar
+    casos em que isso seria particularmente desastroso
+- N é tão absurdo
+  - Bancos Centrais já existem
+  - Nao eram independentes, passaram a ser
+  - Crise no Euro -> Grecia -> Politica fiscal e monetaria
+- Politica economica tende a ser complexa
+  - Haddad oferecendo gas de graça
+  - Por que governantes tendem a fazer politicas burras
+    - Nos nao acreditamos que é por mera incapacidade
+    - Ex: Dilma em 2016 -> Ela sabia que a politica dela ia levar o pais a ruina
+    - A logica de que a politica economica é apenas por causa das decisoes dos
+      politicas é falha
+      - COnselheiros ocidentais em Gana pos independencia
+      - N entendiam o controle de preços dos alimentos agricolas
+      - Pq esses governantes extraiam sua base de poder das cidades
+      - Que consumiam os alimentos
+      - Limitados pelo contexto
+      - * Case da Dilma em 2016
+        - Levy
+        - Base eleitoral dela
+        - Estudantes
+        - Proprio partido
+        - Sindicatos
+    - Esse conselhor potanto teria a força contramajoritaria de impedir que os
+      politicos mal intencionados fizessem burrices a longo prazo
+      - Ex: Dilma com o controle de preços da gasolina, ela claramente buscava
+        uma tentativa de se reeleger com base nos preços da gasolina
+        - Politicos tem interesse a curto prazo
+        - Interesse de se reeleger -> Curto prazo -> APenas de 4 em 4 anos ->
+          Ex: Saneamnto basico e Escolas VS Obras arquitetonicas e eventos esportivos
+        - Dentro da matriz economica isso se torna mais importante
+          - A injeção de dinheiro do BNDES, nova matriz economica, podia parecer
+            boa na epoca, porque inflava os empregos com base em investimento governamental
+          - Mas a longo prazo foi o que causou a recessão
+          - Esse conselho seria semelhante ao STF ou judiciario, que ninguem
+            questiona a legitimidade, e que tem amplo poder de definição sobre o
+            que é o justo -> Nese caso é menor ainda -> Pq eles só rechaçam
+            planos -> E apenas por criterios de meio e não de fins.
+- No pior cenario em que esses caras tem interesses excusos
+  - A democracia tem freios entre poderes que podem ser usados de forma semelhante
+  - Assumindo que a gente tire os lideres desses conselhos de servidores de
+    carreiras no IBGE, BC, e afins
+  - São pessoas que gastaram sua vida inteira em serviço do Estado Brasileiro,
+    meio absurdo assumir que elas nao tem o melhor em mente
+  - Os proprios politicos brasileiros são limitados na sua politica economica
+    pelos tramites da constituicao federal
+    - Ou seja, a constituiocao define um Estado de bem estar social nos moldes europeus
+    - E o politico tem que seguir a constituição
+    - Sisnigica que ele nao pode criar um modelo economico semelhante ao dos EUA
+    - E isso ocorre em boa parte das constituicoes do mundo em que se definem direitos
+    - E pq isso tá lá? o que vem dfe tras da lei
+    - A ideia de que politica economica, a partir do momento que nao pode ser
+      mudada a cada 4 anos como se nada acontecesse
+    - a partir do momento que ós passa a ter efeito no longo prazo
+    - a partir do momento em que deende do arcabouço de tecnicos do Estado
+    - Tudo isso indica que politica economica, é muito mais politica de Estado
+      do que de governo, ou seja, deve ser tratada como tal, e ao ser tratada
+      como tal nao deve ser vitima dos vai vens da politica.

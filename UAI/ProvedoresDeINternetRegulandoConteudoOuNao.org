@@ -1,0 +1,102 @@
+#+TITLE: Debate05
+
+- Senhor presidente, os provedores de internet já se mostraram sem nenhuma
+  capacidade de se autoregular, e o sistema atual não fornece nenhum incentivo
+  para essas empresas o fazerem
+- Contraproposta da 1Op
+  - Formação de uma organização nos mesmos moldes do W3C
+  - A governança de internet como um todo sempre foi regulada por órgãos semelhantes
+  - Onde a sociedade civil, os governos e as empresas se reunem para formular as
+    regras que vão ditar o espaço virtual
+  - A W3C já rege talvez a parte mais importante da infraestrutura da internet
+    que são os protocolos HTTP, TCP/IP etc
+  - A nossa proposta envolve um órgão semelhante, mas onde as empresas de
+    internet não teriam poder de voto
+    - Elas já mostraram que só se importam com seus interesses e nao com o bem
+      estar da internet > Por exemplo quando tentaram puxar legislações como
+      SOPA e PIPA que tiveram um grande backlash de todos os ativistas de
+      internet, por literalmente minarem a liberdade de expressão válida e a
+      possibilidade de formações de novos mercados
+      - Um segundo exemplo é quando essas mesmas empresas usaram seu poder de
+        voto pra instituir mecanismos dentro dos principais browsers de internet
+        que possibilitam a espionagem ilimitada e constante dos usuarios, até
+        mesmo em relação as coisas que eles não fazem dentro da internet, que
+        foi o caso dos DRMs mais recentes
+- Mecanismo
+  - Quais sao os incentivos e interesses de um provedor de conteudo de internet?
+  - Na internet os provedores tem o interesse de conseguir o maior numero de
+    acessos possíveis, justamente porque com base nissos eles conseguem renda de
+    advertising.
+  - Diferentemente de um jornal como o Estadão ou Folha que hoje em dia
+    sobrevive na base de assinaturas, esses provedores sobrevivem com clicks
+  - Por que isso é ruim?
+    - Por que para conseguir clicks, voce precisa de engajamento(N do debate)
+    - Engajamento implica em quantas pessoas estao falando sobre determinado assunto
+    - Note que nesse mecanismo, não importa se a informação é boa, ou se é ruim,
+      o meio pelo qual essas empresas medem essas informações é tudo aquilo que
+      faz a galera ficar puta ou feliz
+    - Isso implica que os proprios algoritimos desses provedores
+    - Sao desenhados para que as noticias e artigos que ficam no topo das paginas
+    - Sao sempre os mais perniciosos, os mais absurdos, os menos razoaveis
+    - Justamente porque sao aqueles que tem mais retweets seja denegrindo o
+      conteudo ou favorecendo, seja aqueles videos com mais comentarios xingando
+      a mae do autor, ou falando que ele é o novo messias na terra
+    - Isso significa que a propria natureza do negocio dessas empresas
+    - Implica que elas NÃO vão ter a vontade de regular esse conteudo
+      - Ex: Quando o Mark Zuckeberg se negou repetidas vezes a retirar conteudo
+        de supremacistas brancos no Facebook
+      - Falem bem ou mal mas falem de mim
+    - Nos acreditamos
+      - Qualquer tentativa desses provedores atualmente de regular esse
+        conteudo(Ex: O twitter tentando fazer mecanismos contra bots) nada mais
+        é do que circunstancial.
+      - E que caso esses provedores efetivamente fizessem uma limpeza completa
+        desses tipo de conteudo, o mais provavel que acontecesse fosse que um
+        outro concorrente com regras mais liberais conseguisse tomar o trono
+      - Portanto, temos praticamente uma falha de mercado, o ideal portanto é
+        agir com regulação, impondo as mesmas regras para todo mundo, e isso
+        feito com base em uma organização sem fins lucrativos, e que não esteja
+        subordinada aos mandos de nenhum governo.
+        - Coisa que já acontece dentro da internet, e é como a internet se
+          formou em primeiro lugar
+      - A maior prova de que qualquer tentativa atual é meramente para
+        publicidade, pode ser vista com o fato de que, o proprio Facebook já tem
+        mecanismos para conseguir impedir esse tipo de coisa(O proprio filtro de
+        spam do facebook funciona tao bem que ninguem tem nem ideia que tem spam
+        no facebook) OU seja, o twitter por exemplo não regula hoje em dia
+        porque ele não quer.
+- Ou seja, essas empresas tem todo o interesse do mundo de manter esse tipo de
+  circulação de fake news, justamente porque possibilita a elas cada vez mais lucro
+  - Um mundo em que elas por si só regulassem esse conteudo seria no melhor dos
+    casos um mundo em que elas regulassem o conteudo não com base no que deve
+    ser feito de forma correta
+    - Ou seja, elas passariam pano para a maior parte do conteudo que gera real
+      danos para a sociedade mas que dá muito lucro para elas
+    - E apenas propor medidas paleativas dentro desse contexto.
+    - No pior dos casos você cria precedente para essas empresas removerem
+      conteudo com base em defesa as Fake News
+      - Isso pode ter dois problemas essenciais
+        - O primeiro é essas empresas retirarem conteudo com base em seus
+          interesses político
+        - Ex aqui: O Zuckeberg nos ultimos anos tentou criar um sistema de
+          essential internet em paises subdesenvolvidos, o facebook ofereceria
+          uma internet de graça na INdia, mas seria uma intenet limitada onde os
+          usuarios estariam presos apenas ao facebook e sites afiliados
+          - Isso criou um backlash gigante principalmente dentro da India, até o
+            ponto do governo efetivamente ir contra esse tipo de atividade, o
+            Facebook usou milhoes do seu orçamento para tentar fazer lobby nao
+            só na India como na Etiopia
+            - Engajando com o ponto do 1G > Justamente por causa do fato de uma
+              empresa se preocupar com o lucro, nesse caso especifico com o
+              objetivo de lucro o facebook iria querer
+          - O proprios fato dessa galera Bill Gates, Jeff Bezos, Mark hoje em
+            dia já estar investindo muito dinheiro dentro da eleições americanas
+            já mostra que existe ai claramente um conflito de interesses, ainda
+            mais que fake news majoritariamente é algo criado por politica
+          - E percebam que isso pode ser feito de uma forma muito sutil
+            - Vc nao precisa nem mesmo ativamente tirar o conteudo desses
+              adversários -> Basta que você seja mais exigente com base nas
+              denuncias de um lado e nào do outro, até porque hoje em dia fake
+              news virou algo tao potente, que ambos os lados usam, ou seja, se
+              você é mais rapido em tirar o conteudo de um lado do que do outro,
+              sutilmente vc já está tendo um impacto gigante

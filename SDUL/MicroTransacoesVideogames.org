@@ -1,0 +1,111 @@
+#+TITLE: Debate_05
+
+- Faz o jogo ser gratuito -> Ele é mais acessivel
+- Financia a cena de E-Sports
+- Se tem microtransação o jogo é financiado a mais tempo
+
+* Case
+  - Mesa adjudicadora
+    - Jogo mais famoso do mundo -> Fortnite
+    - Segundo jogo mais famoso do mundo -> League of Legends
+    - Jogo mais famoso no leste europeu -> World of Tanks
+    - Jogos da Valve, Dota 2 e CS Go. -> Milhoes de jogadores.
+    - O debate é justamente sobre esses jogos, jogos medios nao importa. porque
+      nao importa se tem um milhao de jogos diferentes no mercado, 90% das
+      pessoas  jogam um desses 5.
+    - Todos financiados exclusivamente com microtransações, nenhum deles com
+      capacidade de pagar pra ganhar.
+    - Nenhum jogo que é pay-to-win vai conseguir se capilarizar para a maior
+      parte da população mundial.
+    - E se o debate não é sobre LoL, ele muito menos é sobre RPG MO, que tem uma
+      comunidade pequena, e concisa, que realmente se importa com o jogo, onde o
+      produtor tem um relacionamento intimo com a comunidade etc. A
+      contraproposta deles não funciona nos grandes jogos que é onde as pessoas
+      realmente estão.
+  - Jogos mobile
+    - Qual a alternativa pro paytowin, vamos assumir o POI da Rafa, o problema
+      não é nem mesmo apenas a propagando que a Vitoria e a Carol falam, existe
+      um problema mais nefasto ainda, que é a coleta de dados, a cambridge
+      analytica por exemplo usou de quiz de facebook para conseguir adentrar na
+      vida de todas suas vitimas
+      - Não existe nenhuma garantia de que a mesma coisa não seja feita pelas
+        produtoras de jogos mobile, até porque se eles não tao fazendo
+        microtransação, eles tao fazendo anuncio, se eles tao fazendo anuncio na
+        internet, significa que eles precisam coletar dados dos usuarios(Por que
+        ninguem vende anuncio na internet, sem antes fazer targeted advertising,
+        que exige coleta de dados)
+        - E isso tem impactos extremamente negativos, em coisas como propagação
+          de fake news, capacidade de coleta de informação sobre grandes
+          empresas, tudo isso usa como base coleta de dados, que só existe por
+          causa de targeted advertising.
+        - Mas e a alternativa de vender o jogo por um preço fixo?
+          - A real é a pessoa que não tem dinheiro, não vai comprar nenhum app,
+            porque sempre vai ter a alternativa gratuita, o custo de entrada é o
+            que importa para capilarizar um jogo
+          - Por que?
+            - Como alguem entra no mundo de um joguinho desses? -> Voce tá lá de
+              boas no domigno a tarde muito preguiçoso, e voce nao tem nada pra
+              fazer, ai voce vai lá e baixa um jogo, só que ninguem vai investir
+              dinheiro num produto que no pior dos casos ela não sabe como é.
+              Ainda mais quando tem a alternativa. Imagina, eu vou gastar 5
+              dolares num jogo que eu eu nem sei como é? Não vale a pena.
+  - A moção se torna mais impactante ainda, quando a gente leva em conta a
+    transferencia de riqueza dos paises ricos para os paises subdesenvolvidos.
+    - Por que?
+      - Em jogos como Dota 2, Team Fortress 2, WOW, existe um marketplace
+        gigante para esses itens, ou seja. Em muitos casos os itens também podem
+        ser adquiridos investindo horas de jogo, seja por sorte, seja por habilidade.
+      - O que isso significa portanto?
+        - Que se forma toda uma economia por trás desses jogos, o marketplace da
+          steam por exemplo, tinha como seu coordenador alguem que
+          posteriormente virou ministo da fazenda da Grécia.
+        - O que acontece nesse contexto?
+          - Os jogadores do mundo subdesenvolvimento, passam horas e horas
+            jogando esses jogos em busca desses itens, e posteriormente vendem,
+            isso é documentado como fonte de renda para milhares de jovens em
+            locais como China, India, Vietnam etc.
+          - Tirar a possibilidade das microtransações basicamente portanto
+            acabaria com o emprego desses jovens
+            - Jovens muito vulneraveis(Moram em paises subdesenvolvidos), e que
+              não tem outra escolha para auferir renda a suas familias que
+              ficariam desamparadas.
+      - Nesse contexto de pessoas com mais condições terem acabarem por
+        financiar pessoas com menos condições
+        - Nós temos a cena de E-Sports.
+        - A cena de E-Sports mais desenvolvida do mundo é a do Dota 2
+        - E essa cena é financiada com base em microtransações.
+        - O premio dos campeonatos sao todos financiados pelos proprios jogadores.
+        - As pessoas da Europa e da America, acabam por financiar esses grandes
+          eventos, o International por exemplo com seus premios de 10, 15, 20
+          milhoes de dolares
+        - E a questão é que boa parte das equipes que jogam nesses eventos, são
+          de paises subdesenvolvidos
+          - No Dota por exemplo, as equipes das filipinas, malasia, china e
+            leste europeu são dominantes
+          - Obviamente que nós não consideramos os poucos escolhidos que tem a
+            possibilidade chegar a virarem pro-players como algo impactante
+          - O real impacto se encontra nos milhões de jovens, que assistem esses
+            jogos, e vêem pessoas como elas, marroms como elas, de olhos puxados
+            como elas, brasileiros como eles(na epoca feliz em que a gente era
+            bom no CS) e que agora estão chegando num stand mundial, e descendo
+            a porrada numa cambada de europeu e americano.
+          - E isso tem um efeito psicologico muito grande, nós do mundo
+            subdesenvolvido estamos o tempo todo sendo colocados pra baixo,
+            considerados como menores. A partir do momento em que um jovem se vê
+            derrotando diretamente aqueles que uma vez foram os seus senhores,
+            isso tem um tremendo impacto psicológico.
+            - Semelhante à quando o Brasil, com todos os seus problemas, chegava
+              na copa do mundo de 70 e fazia europeu revirar os olhos.
+            - No caso dos jogos o impacto é maior ainda, porque os jogos são
+              atividades eminentemente intelectuais, um jogo de Dota consegue
+              ser MILHÕES de vezes mais que um jogo de xadrez, portanto nesse
+              aspecto os E-Sports sao SUPERIORES aos Esportes normais, porque
+              não existe a bestialização do homem colonizado como alguém que não
+              tem capaciadde de competir intelectualmente com o homem branco. No
+              E-Sports é um esforço meramente intelectual.
+            - Nós temos aqui portante um argumento impactante porque diz
+              respeito a milhoes de jogadores, o impacto psicologico é alto..
+          - Ao longo do tempo esse argumento cria mais impacto ainda, justamente
+            porque hoje em dia, o dinheiro está cada vez mais não no jogo em si,
+            mas em tudo em volta do jogo, nos eventos, no merchandising, tudo
+            isso que só é criado com os E-Sports.

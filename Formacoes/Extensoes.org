@@ -1,0 +1,136 @@
+#+TITLE: Extensoes
+
+* Extensão Vertical
+- Extrai plausibilidade ou relevancia da primeira metade
+  - Extensao horizontal vertical -> Mesmo impacto -> Explicacao diferente
+  - Extensao vertical horizontal -> Mesmo mecanismo -> Impacto diferente
+  - Explicar aonde é diferente
+  - Como explicar impacto?
+    - Numero de afetados
+    - Espaço temporal
+    - Vulnerabilidade de afetados
+    - Tipo de afetados
+    - Local onde a moção vai ser aplicada
+  - Se voce nao conseguir explicar a sua extensão precisamente em menos de 1
+    minuto, então é pq não dá
+* Extensão horizontal
+ - Não é porque é novo que efetivamente você fica na frente
+ - Pq eles não pegaram esse ponto?
+ - Voce provavelmente vai se contorcer
+   - Como facilitar sua vida?
+     - Ordem oposta -> Impacto primeiro, depois explicação
+     - Até agora o debate foi sobre x, nós vamos falar sobre y, e o que vamos
+       provar é como y resulta em a, b e como especialmente pior para c por
+       causa de mecanismo d.
+* Extensão diagonal
+- Voce nao precisa ir all-in em um argumento novo -> É possível combinar uma
+  vertical com uma horizontal
+  - Ex: Pegar o argumento da bancada acima, fazer uma caracterização no contexto
+    do mundo subdesenvolvido, mostrar porque lá a moção vai ser particularmente
+    danosa, depois mostrar porque existe um impacto novo que a primeira casa não trouxe.
+  - Ex: Pegar um ônus específico que não foi provado e jogar em cima dele
+    - Ex: Moção do movimento feminista na india usar deusas violentas como
+      símbolo. 1G pode responder porque usar deusas da religião hindu, mas
+      falhar em responder 1O Porque elas tem que ser violentas, se a 2G pega e
+      faz uma extensão explicando esse ônus, tem alta chance de ficar na frente
+      das duas casas
+* Moções
+1. EC aboliria revistas acadêmicas e faria toda a pesquisa acadêmica disponível
+   de graça para o público online
+2. EC apoia a independencia total do Banco Central Brasileiro
+3. EC apoia um cadastro positivo de devedores
+4. EC apoia um governo mais tecnocrata
+5. EC obrigaria os padres a reportar crimes no confessionario
+6. EC retiraria dos soldados a capacidade de sentir medo
+7. EC acredita que é moralmente injustificável, não doar para caridade todo
+   rendimento acima do mínimo de subsistência
+8. EC responsabilizaria as empresas pela reabilitação laboral de trabalhadores
+   despedidos devido à automação do seu trabalho (por exemplo: pagando subsidio
+   de desemprego, financiamento de formações para adaptações a outros setores etc)
+9. EC acredita que os pobres do mundo estão justificados em promover uma
+   revolução marxista
+10. EC privatizaria o SUS
+* Caracterização
+1. Que coisas existem no status quo que impedem os danos do outro lado
+2. Quem ganha mais poder com a moção?
+3. Quem fica puto com a moção? (BACKLASH!!!!!!!!!)
+4. Primeiro mundo VS Terceiro mundo
+5. Quem NÃO é afetado com a moção?
+6. Ocidente VS Oriente
+7. Meio rural VS Grandes cidades
+8. Democracias plenas VS Democracias falhas
+9. Religião dominante
+* Algumas dicas avulsas
+- Como transformar debates de legitimidade em debates de utilitarismo?
+  - Achar danos a "terceiros"
+  - Funciona melhor com legitima defesa
+- Transformar debates de agente em debates gerais
+  - Obrigação moral do agente
+* Mecanismos
+** Incentivos
+- Incentivos dos políticos é se reeleger
+- Incentivos dos grupos de interesse é manter seus privilégios(Ex: Judiciario)
+- Incentivos das empresas é de ganhar dinheiro
+- Incentivos das religiões é aumentar o número de fiéis, ou fidelizar os fiéis
+  atuais(Papa Francisco e Wahabismo)
+- Incentivos dos Estados é manter a sua segurança em primeiro lugar, e o bem
+  estar da sua elite em segundo
+  - Subcategoria -> Obrigação moral de cuidar dos seus nacionais
+** Psicologia
+1. Medo torna as pessoas irracionais
+   1. As pessoas superestimam o impacto de certas coisas(Ex: Ataque terrorista)
+2. Viés de Confirmação
+   1. Nós geralmente filtramos as coisas que não concordamos, nós na verdade
+      procuramos as coisas que confirmam os nossos viés.
+3. Mecanismo dos héroi
+   1. É muito díficil você mudar as suas opiniões
+   2. As pessoas geralmente se identificam como atores morais bons
+** Sociologia
+1. Mentalidade de manada
+   - Quando estão juntas ficam menos suscetíveis a ter pensamentos indivíduais
+2. Necessidade de pertencimento
+   - As pessoas querem sentir que o grupo as valoriza e as considera um membro
+     importante Ex: Violência em protestos, violência na guerra
+3. Em certas ocasiões movimentos sociais extremistas fazem terceiros irem para
+   mesa de negociação.
+** Educação
+1. As prioridades no ensino superior tendem a ser definidas pelo mercado
+2. Efeito signaling -> Na maior parte dos casos um diploma de ensino superior
+   não tem função de ensinar coisas práticas, mas para sinalizar um empregador
+** Biologia
+1. Instinto de auto-preservação
+2. Pre-determinismo(Biologia/Sociologia)
+** Meio ambiente
+1. Custo de renovaveis é menor
+2. Efeito em cascata do aquecimento global
+** Religião
+1. Medo da morte -> Contraste entre inferno e céu
+2. Lideres são uns condutores à Deus -> Divergir do lider é divergir de Deus
+** Politica
+1. Interesse dos politicos -> Serem eleitos e permanecerem no poder
+   1. Curto-prazismo
+   2. Votos das minorias
+2. Assmietria de informações -> Local VS Federal
+** Economia
+1. Custos de oportunidade
+2. Legislação moldando a produção
+3. Oferta e demanda
+4. Economias de escala
+5. Precificação de ativos
+6. Globalização
+   1. Cadeias produtivas globais
+   2. Inserção do terceiro mundo
+   3. Especialização VS Segurança
+** Criminologia
+1. Demanda inelastica das drogas
+2. Diminuição do crime e a pena
+3. Sistema penal enquanto justificator de si mesmo
+** Matematica?
+1. Sistemas complexos vs sistemas unitarios
+2. Customização VS Generalização
+** Esporte
+1. Esporte tende a se traçar em linhas étnicas
+2. Esportes tendem a ser jogados pelas camadas mais pobres da população
+** Midia
+1. Incentivos da midia -> Lucro com base em clicks
+2. Algoritimos de midias sociais -> Quanto mais engajamento melhor
