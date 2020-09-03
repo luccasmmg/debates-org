@@ -109,6 +109,8 @@
 [[file:.//TreinosUDC/NExisteBeloVSTodosCorposBelos.org][NExisteBeloVSTodosCorposBelos]]
 
 [[file:.//TreinosUDC/VitimaTerVozNaPunicaoAdj.org][VitimaTerVozNaPunicaoAdj]]
+
+[[file:TreinosUDC/ArmasAutonomas.org][ArmasAutonomas]]
 ** UAI
 [[file:.//UAI/AumentarOsGastosVSPoliticaLiberalizante.org][AumentarOsGastosVSPoliticaLiberalizante]]
 

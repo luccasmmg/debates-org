@@ -1,0 +1,59 @@
+#+TITLE: Debate
+* CASE
+- A gente precisa entender qual é a comparativa da guerra moderna
+  + O case do Lucas é basicamente o case da guerra do vietnam, EUA vai pra guerra, porrada de soldado volta amputado, a guerra acaba, uhuull
+  + Mas o Lucas nao entende que os EUA aprenderam com essa lição, eles entendem que uma guerra com muitos soldados é caro
+  + Advinha, existem soluções pra isso
+    - Quais?
+    - Como foi que o EUA matou o Soleimani(O iraniano lá)? -> Advinha, não foi com uma grupo de Navy Seals, foi com um fukin missil Tomahawk, e por que a bomba é pior? -> Pq um fukin tomahawk, uma bomba, nao tem precisao nenhuma, justamente por eu precisar ficar longe da ação, eu perco precisão, um robo é muito mais preciso que um F16, pq o F16 precisa ficar 8 mil km de altitude, pro piloto nao ser morto, uma arma autonoma pode ficar muito perto da ação, significa que ela é muito precisa, ou seja, vc consegue matar APENAS os combatentes, e muito manos civis. Isso implica necessariamente em menos morte. Usando o case de capital humano do guilherme, é justamente por essas maquinas serem descartaveis, que elas podem ser colocadas mais perto do combate, e portanto conseguirem fazer ataques muito mais precisos do que o status quo de misseis enviados a milhares de kilometros.
+    - A outra opção são mercenarios, a esmagadora maioria dos soldados, no afeganistao ou iraque, sao mercenarios, justamente pq sao pessoas que ninguem se importa, ou seja, os governos atuais já aprenderam a circunventar a opinião publica.
+    - Ele tambem fala que existe um maior problema da opinião publica com bombas, nos nao acreditamos que isso é verdade, e mesmo se for verdade, com o maior uso dessas armas, elas vao passar a entrar na boca do povo, ate porque AI no geral já é algo que a população nao gosta, vide os mil e um filmes das maquinas tomando conta de tudo,
+    - Ou seja, o que o Lucas falou sobre menos guerras, simplesmente nao é verdade, o que a gente tem é o mesmo numero de guerras, mas com agora um aumento MUITO maior de dano de civis, porque as ferramentas usadas pra evitar a morte de soldados, sao muito mais danosas para civis.
+  + O outro ponto do Lucas é que com a discrepancia de poderes, isso implica que os governos iriam ficar mais propensos a entrar em guerra
+    - 1 - Nos nao acreditamos que isso seja correto no mundo atual, por exemplo na guerra do vietnam existia muito mais paridade de armas porque o vietnam tinha por exemplo apoio da Uniao Sovietica, havia ate mesmo guerra aerea no vietnam, ou seja, a disparidade de armas hoje em dia já é tamanha, que nos nao acreditamos que o uso de alguns robos implicaria em qualquer aumento na guerra nesse sentido, os EUA hoje em dia tem um orçamento militar maior que todos o resto do mundo COMBINADO.
+    - 2 - Assume que no mundo moderno essas guerras sao sempre injustas, vamos lá, em quais conflitos o EUA se envolveu ultimamente, decada de 90 kosovo, em que eles literalmente pararam um genocidio, tanto é que os kosovos amam os americanos ate hoje, no iraque eles pararm um ditador que matou mais de 2 milhoes de pessoas, no afeganistao eles tiraram um regime que queimava criancinha. -> Ou seja, nao é porque nos temos uma potencia vs um pais pequeno, que o conflito é injustitificado.
+    - 3 - Como eu vou mostrar, a precisao das maquinas é algo bom na real.
+- FRAMING DE GUERRA MODERNA
+- A guerra moderna nao se sabe onde o inimigo esta
+- As linhas entre combatentes e civis diminuem
+- Vc tá patrulhando as ruas de falujah, do nada um explosivo estoura seu humvee, tiro de sniper começa a cair em ti, morteiros saindo de todos os cantos, cenario de caos
+- NAO IMPORTA o treinamento de qualquer soldado, um contexto desse quebra ate o mais forte dos seres humanos
+- O melhor soldado do mundo nao vai conseguir lembrar das regras de engajamento na hora de tentar tirar o seu camarada com a perna estourada por uma mina de uma situacao de perigo
+- Nos acreditamos que armas COMPLETAMENTE autonomas, implicam em combates que sempre vao respeitar as rules of engagement, o que na maior parte implica em menores danos aos civis
+  + O que sao rules of engagement
+    - É uma serie de regras que todo soldado aprende
+      + Quando ele deve engatilhar a arma
+      + Quando ele deve botar o dedo no gatilho
+      + Quando ele é autorizado a apontar uma arma
+      + Quando ele é autorizado a matar
+      + Tudo isso implica em seguir essas regras
+      + Nao é razoavel para ninguem consegfuir lembrar desse livrinho na situacao de maior stress que ele vai sentir na vida
+      + Se o soldado conseguisse lidar com o stress bem, nos nao teriamos tantos casos de PTSD
+- Pq as maquinas autonomas sao melhores nesse cenario
+  + Pq elas nao sentem medo
+  + Pq elas nao sentem emoçao
+  + Pq elas nao sentem raiva
+  + Pq enquanto um soldado pode demorar 5,10/20 segundos para analisar toda uma situacao, a maquina é capaz de analisar isso em instantes
+  + Justamente porque ela tem a capacidade de processamento muito maior
+- E a gente precisa entender em qual contexto é que a maior parte dos combates modernos ocorem
+  + O que nos temos é por exemplo EUA e Iraque, a gente tem um exercito extremamente capaz de derrotar um inimigo, uniformizado, convencional, mas que depois precisa ocupar aquele territorio, a maior parte dos combates ocorrem em patrulhas de rotina, voce tá de boas, e boom, de repente o inferno subiu pra terra
+  + Um soldado nesse contexto nao consegue diferenciar um guarda chuva na mão de uma criança de um RPG, ele vai olhar e ele vai atirar
+  + Isso implica necessariamente que, com quanto a tecnologia vai avançando, somente aqueles que vao ser alvos numa guerra, sao os combatentes, mesmo assumindo que a AI de primeira geracao seria meio burra, se vc proibir o uso dessas, essa AI nunca vai se desenvolver.
+    - Pq?
+      + Pq governo nenhum quer que a população civil seja atingida
+        - 1 - É má publicidade
+          + A anistia internacional cai em cima, os aliados desses pais caem em cima, a populacao civil cai em cima
+        - 2 - Vc aumenta a duracao da ocupação
+          + 1 - Vc vai gastar mais dinheiro com equipament
+          + 2 - A ideia é que eventualmente vc consiga colocar um regime capaz de manter o minimo de ordem naquele lugar, acho meio desrazoavel acreditar que o objetivo do EUA era matar o maior numero de iraquianos possivel, ate porque eles tinham condicoes belicas pra matar a pop iraquiana inteira, o que eles queriam era simplesmente mudar o regime.
+        - 3 - A propria rexistencia dessas regras de engajamento, já sao provas de que os paises nao tem interesse em matar civis
+          + Isso refuta diretamente o ponto deles de que a inteligencia artificial mataria todo mundo, mais do que o soldado, NAO, nao é no interesse do governo fazer isso.
+  + E pq esse assassinato de civis é tao ruim?
+    - Vamos lá, ninguem no iraque de 2003, gostava do Saddam Hussein, o bixo era um ditador que se espelhava em hitler, matou mais de 2 milhoes de pessoas
+    - Entao por que os invasores americanos foram rechaçados?
+      + Por causa desses atos de violencia
+      + Pq de repente os americanos sao vistos como um mal ate pior que o saddaim
+      + De repente todo mundo conhece alguem que foi morto no fogo cruzado da guerra
+      + Isso significa que o que nos temos sao conflitos que uma vez que começam, terminam rapido
+      + Isso implica num impacto gigante de diminuição geral na guerra.
+      + Ou seja, partindo da comparativa do governo de diminuição dos conflitos, a gente ganha, por que no começo do case eu já mostrei como os paises modernos circunventam o backlash da população civil, e agora nos mostramos que as guerras que começam, elas continuam por menos tempo.
