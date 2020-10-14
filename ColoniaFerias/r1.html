@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-10-12 seg 12:17 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>R1</title>
+<meta name="generator" content="Org mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:1f739d935676111cfff4b4693e3816e664797050&amp;dn=gpl-3.0.txt GPL-v3-or-Later
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.cacheClassElem = elem.className;
+         elem.cacheClassTarget = target.className;
+         target.className = "code-highlighted";
+         elem.className   = "code-highlighted";
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(elem.cacheClassElem)
+         elem.className = elem.cacheClassElem;
+       if(elem.cacheClassTarget)
+         target.className = elem.cacheClassTarget;
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">R1</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org7554fad">1. PM - Victor</a></li>
+<li><a href="#org926817d">2. LO - Luisa</a></li>
+<li><a href="#orga54f04a">3. DPM - Levino</a></li>
+<li><a href="#org67a3b44">4. DLO - Caroline</a></li>
+<li><a href="#orgf2e503b">5. MG - Takerou</a></li>
+<li><a href="#org36d9856">6. MO - Joao Pedro</a></li>
+<li><a href="#orgeb318f4">7. WG - Gabriela</a></li>
+<li><a href="#orgcf887db">8. WO - Pedro Henrique</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org7554fad" class="outline-2">
+<h2 id="org7554fad"><span class="section-number-2">1</span> PM - Victor</h2>
+<div class="outline-text-2" id="text-1">
+<ul class="org-ul">
+<li>salvar vida em mais de um esentido
+<ul class="org-ul">
+<li>vida biologico -&gt; perpetuacao do genes, reproducao, com valvula ela pode reproduzir, pode escolher genes melhores, selecao de melhores genes. n ter os mesmos problemas que ela, pode dar tudo errado, só que mesmo assim ela vai atringir o sentid biologico de vida.</li>
+<li>vida qualitativo -&gt; n adianta viver mil anos, se n tiver qualidade de vida, ela tem um romance, uma pessoa que ela ama, eles querem formar uma familia, ela pode viver só esses 10 anos, viver com o amor da vida dela, n vai consumir tantos remedios. ela vai ter o suficiente.</li>
+</ul></li>
+<li>sentido qualitativo de vida melhor.</li>
+<li>stephen hawking já queria logo casar quando descobriu qeu tinha doença, pelo menos casar com o amor da minha vida, mesmo sabendo que tinha risco de vida ele teve varios filhos.</li>
+<li>pode perder apoio de extremistas mas dane-se eles. todo mundo ocnhece alguem que come carne, caso que sensibiliza. n vai perder tantos seguidores.</li>
+<li>pode viver o resto da vida frustrada, no pior cenario ela vai ter uma vida melhor com qualidade de vida melhor. em todos os sentidos de vida, vc ter menos tempo mas ter maior qualidade vai ser benefico para evolucao humana.</li>
+<li>nao poderia fazer isso com uma valvula dfe escape, em prol da ruth a gente é a favor que ela use uma valvula de porco.</li>
+<li>depois pode usar outas tecnologias pra usar os proprios genes</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org926817d" class="outline-2">
+<h2 id="org926817d"><span class="section-number-2">2</span> LO - Luisa</h2>
+<div class="outline-text-2" id="text-2">
+<ul class="org-ul">
+<li>literalmente n fala que ela vai morrer, questao de plastico é permanente e ela vai ter que tomar remedio, valvula de corpo vai ser trocada de 10 em 10 anos, em nenhum momento a vida dela vai acabar. entre fazer uma cirurgia e tomar um remedio.</li>
+<li>questao qualitativa -&gt; questao darwinista, expectativa do mundo &gt; a gente n vai ser mais feliz pra ter filho, n tem essa necessidade biologica, nos nao somos animais, pensando em outras coisas, valores mtu mais importantes, do que valores biologicos.</li>
+<li>1 &gt; Pessoa autonomia, crenças dela
+<ul class="org-ul">
+<li>claramente tem crencas, cre no veganismo, a partir do momento em que vc esta comendo carne, ato similar ao assassinato, crime contra a natureza, pq isso é importante? ela colocar uma protese de corpo vai contra o amago do que ela quer. o gov defende que ela vá contra algo que tá dentro do seu amago. a partir do momento que ela tem uma pessoa, ela é constituida pelas suas crenças, deve ter orgulho, deve ter autoconfianca e crença, a partir do momento que ela ta acreditando no que ela faz, a gente nao sabe se a ruth quer, se olhe no espelho a minha vida só esta a partir do momento em que eu estou usando na carne dfe outro animal, ruth vai ter que se eolhar no espelho todo dia, a partir do momento em que ela vai se odiar no futuro.</li>
+</ul></li>
+<li>2 &gt; relacionamento é consenso
+<ul class="org-ul">
+<li>defesa de uma pessoa que tem suas crencas suas fés e tem que ver e acreditar a aprtir daquilo, vc nao quer fazer uma pessoa viver semelhante a um assassinato, os relacionamentos nao sao feitos da forma que uma pessoa quer, consenso, que ponto a gente tá fazendo isso se sacrfifica de tal forma, só está vivo a partir do momento que vc faz algo que considera assassinato, a moção até fala que n tem chance de adoçao.
+<ul class="org-ul">
+<li>faz uma inseminacao, barriga de aluguel, in vitro(nao pode)</li>
+<li>ele se apaioxonou pelas crencas, por quem ela é, o amor da vida dela, apesar de entender, entender que aquilo é parte de quem ela é, se odiar no espelho o tempo todo</li>
+<li>poi victor &gt; usar valvula de porco n faz contra a parte dela -&gt; ainda sim que ela ta usando isso, ela ta indo contra, os veganos vao contra toda industria da carne, n melhora na cabeça de um vegano, acredita tao fielmente, vai cometer um assassinato.</li>
+<li>pessoa se olhar no espelho todo dia.</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orga54f04a" class="outline-2">
+<h2 id="orga54f04a"><span class="section-number-2">3</span> DPM - Levino</h2>
+<div class="outline-text-2" id="text-3">
+<ul class="org-ul">
+<li>morrer consideracao do pior cenario, possibilidade que temos que colocar, problema de saude grave.</li>
+<li>todo mundo toma remedio, esse n é qualquer tipo de remedio, problema de coracao, cardiaco mtu grave, naturalmente esse tipos de remedios n sao comuns, sao fortes, impactam na saude, tratamento forte, muito intensivo. se vc dixa de tomar um remedio vc pode morrer. vida mais tranquila é bem danado.</li>
+<li>O qq é a ruth &gt; relacionamento, tem um engajamento forte com a causa vegana
+<ul class="org-ul">
+<li>pode gerar um ganho de vida qualitativo, medicamento tao forte dfe remedio.</li>
+<li>tem uma familia, tem a busca do marido de ter um filho &gt; essa chance de reproducao é muito grande, possibilidade é uma chance, a possibilidade de ter filho é uma opcao, no momento que ela é tirada, só pq ela pode nao querer agora n signifca que ela n queira no futuro, já é muito impactante, frustracao do marido, isso é bem negativo, gera impotencia, falta de capacidade. perder a chance de se reproduzir é uma limitacao a autonomia da ruth. autonomia limitada.</li>
+</ul></li>
+<li>cirurgia de 10 em 10 anos, periodo longo, mesmo que tenha um riscos é mais positivo, vida mais estavel, equilibrada, cirurgia é pontual, controlado, perigo constante, esse tipo de tratamento n é tao bom assim.</li>
+<li>POI 1OP &gt; Como que fazer uma cirurgia, risco, no coracao, mais qualitativo que tomar um remedio &gt; Medicacao bem controlada, é um risco, é uma dependencia, cirrugai é algo pontual, risco de 10 em 10 anos.</li>
+<li>Veganismo(6 MINUTOS) &gt; urgencia, vida ou morte, precisar sobreviver(nao), publico pode parar de seguir ela, mal ver ela, muitos que vao se compadecer, do que condenem ela, situacao demergencial, deixar de seguir elas.</li>
+<li>Reproducao &gt; Pode ter outras opcoes(nem precisava refutar) &gt; inseminacao artifical é um risco maior, muito mais cara, e trabalhoasa</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org67a3b44" class="outline-2">
+<h2 id="org67a3b44"><span class="section-number-2">4</span> DLO - Caroline</h2>
+<div class="outline-text-2" id="text-4">
+<ul class="org-ul">
+<li>A Ruth é uma pessoa de principios, possui valores, entende, tem consciencia ambiental, consciencia social.</li>
+<li>Valvula de porco é melhor do que a valvula de plastico por ter mais medicamentos &gt; a cada 10 anos vc tem um risco, vc vai ter que tomar uma porrada de medicamento no pos-operatorio, risco da saude e psicologico, sobre a saude psicologica tao importante quanto a saude fisica. saber que vc tem uma valvula de porco dentro do corpo.</li>
+<li>Se a anvisa permite, é porque funciona, traz boa qualidade de vida, pessoa de principios, de valores, entende que n é tudo.</li>
+<li>Relacionamento é consenso, mesmo sendo o amor, tem que entender, seria um tanto quanto toxico, esperar que estar casado, implique em ter filhos, ele n pode esperar isso dela. tem que dar um pouco, pra receber um pouco.</li>
+<li>se ele gosta tanto de criança, existem outras formas, barriga de aluguel(nao pode, é adocao), pensar que somos simples animais é retrogrado, optar por uma barriga de aluguel, ela é uma pessoa com consciencia ambiental, só vai aumentar, engajar tanto financeiramente quanto pessoalmente.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgf2e503b" class="outline-2">
+<h2 id="orgf2e503b"><span class="section-number-2">5</span> MG - Takerou</h2>
+<div class="outline-text-2" id="text-5">
+<ul class="org-ul">
+<li>Sacrificar certas coisas pra seguir certos sonhos que guardamenos, a ruth deveria sacrificar a conviccao, sacrifgicar o imperio de midias de influencer, sonho dela de ter filhos, diferente do que a 1op diz, n tá sendo obrigada, a propria mocao diz que ela ama crianças, sonho dela de ter crianças.(quem ama é o marido)</li>
+<li>os sonhos sao maiores que as ideologias, pq sao flexiveis.</li>
+<li>1 - o veganismo é uma ideologia insustentavel, nos somos a favor dos animais, nos pensammos que vegniamos é algo radical demais, escandalo de uma influencer vegana estava comendo carne, pq a dieta vegana dela estava sendo insustentavel para saude, comer coisas de origem animal, nesse caso valeria a pena desistir de uma ideologia, a valvula de porco só adiantaria, pessoas gravidas mesmo sendo veganas tem que comer produtos de origem animal, pra suprir vitaminas, teria que mudare essa dieta.</li>
+<li>2 - deveria dessitir o imperio de midias, a ruth seria mtu mais feliz, tendo uma vida de familia, tendo crianças que ela ama,vida familiar feliz, vivendo pelas aparencias e se preocupando pelos likes, temos muito casos de influencers que tem depressao, fruto dessa epoca das midias sociais, vida de aparencia, preocupadas com likes, com o que vai acontecer com a carreira pq é mtu volatil, vivendo uma vida deprimida triste, frustrada. A Ruth já naturalmente ama crianças</li>
+<li>POI 1OP &gt; Compara usar partes de animais com assassinato &gt; poderfia flexibilizar, lutando pelos direitos dos animais, conciliando com o sonho dela individual</li>
+<li>No nosso cenario a ruth seria uma pessoa feliz, com sonho de vida, nada impediria que depois de ter filhos ela mude essa valvula de corpo por uma de plastico.(Já matou o porco)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org36d9856" class="outline-2">
+<h2 id="org36d9856"><span class="section-number-2">6</span> MO - Joao Pedro</h2>
+<div class="outline-text-2" id="text-6">
+<ul class="org-ul">
+<li>A mocao nao fala que o sonho da ruth é ter filhos(já tinha percebido)</li>
+<li>No melhor cenario &gt; status quo machista &gt; patriarcado &gt; maternidade compulsoria &gt; enxergamos mulheres como invalidas e sem filhos &gt; a maior realizacao da vida delas é ter um filho no final, ruth é uma mulher que pode muito bem ser realizada sendo ativista vegana &gt; sendo blogueira.</li>
+<li>o que é veganimos &gt; mtu mais abrangente do que comer carne &gt; questoa moral de matar um animal &gt; agronegocio e uso de agua &gt; desmatamento em massa &gt;</li>
+<li>2g fala que veganimos é insustentavel &gt; n estamos pra discutir isso &gt; Esta casa COMO Ruth escolheria a valvula de porco ou plastico
+<ul class="org-ul">
+<li>Ruth é vegana am,a ser vegana, homem decidisse corpo dela, ter filho tbm é uma decisao irrevesivel, o que é relevante é o marido quer ter filho, Ruth estaria mtu mais feliz da possibilidade de ter filho do que poder escolher.</li>
+</ul></li>
+<li>Suposto amor da vida dela &gt; mas se o amor apenas quer ela com uma valvula de corpo, ele n é o amor da vida dela, se ele querer reconhecer os riscos, medo de perder sua esposa em cirurgias de risco.</li>
+<li>Carreira que é apenas likes, nos compramos esse tradeoff ela tem esses riscos, mas é uma carreira, carreira de policial tbm tem diversos riscos, valvula de plastico é melhor, n é APENAS UMA VEZ, mas 10 em 10 anos.</li>
+<li>Conviccoes pessoais, batalhou muito para convicoes, n é o homem que vai ter o canal vaginal dilatado 10cm pra sair uma criança de lá.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgeb318f4" class="outline-2">
+<h2 id="orgeb318f4"><span class="section-number-2">7</span> WG - Gabriela</h2>
+<div class="outline-text-2" id="text-7">
+<ul class="org-ul">
+<li>1op qualidade de vida -&gt; cirurgia tem risco, andar na rua tem risco, em questao dos remedios, se um remedio é tao forte a ponto de te deixar infertil, o quao forte é esse remedio(n necessariamente)</li>
+<li>troca de valvula ortea, 5 semanas, uma vida inteira tomando remedio.</li>
+<li>Opcao de escolha, valvula de plastico sendo permanente, tirando uma escolha, marido pode estar forçando a ter filhos, a solucao de plastico ela é permanente,  intuitivo a ruth casar com alguem que compartilha objetivos e sonhos dela. ruth n casaria com alguem que vai contra tudo dela.</li>
+<li>reproduzir n é uma necessidade, ela n precisa se repdoduzir ou ter filhos, a gente tem um status quo machista, a valvula de porco daria uma opçao pra ruth. a valvula de plastico tiraria o direito de escolha.</li>
+<li>assassianto pra cumprir o que o marido quer, casaria com alguem que compartilharia com seus convicoes</li>
+<li>POI 2O &gt; Poderia botar uma valvula de porco e depois plastico -&gt; A mocao n traz que a infertilidade trazida pelo medicamento, a valvula de porco precisa ser trocada, ela pode sim colocar a valvula de plastico.</li>
+<li>Veganismo é uma corrente ideolgoica, abrir mao de algumas coisas concluir um sonho, que pode ser objetivo de vida dela. reducao do consumo, poder ser um processo reverso, pode ser uma ativista e concluir um sonho.</li>
+<li>No periodo de gravidez, poderia engravidar se ela quisesse, voltar a consumir alguns produtos, suplementos vitaminicos, b12, ferro e caralho a quatro, n poderia adotar, no nosso cenario ela tem a opcao de escolha.</li>
+<li>Escolha de vida com o marido dela</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgcf887db" class="outline-2">
+<h2 id="orgcf887db"><span class="section-number-2">8</span> WO - Pedro Henrique</h2>
+<div class="outline-text-2" id="text-8">
+<ul class="org-ul">
+<li>1GOV n tem preocupacao com coisas que importam pra Ruth, Ruth ser vegana, passa pelo cenario do governo, relativizado de maneira mujito facil, intencao do marido, infoslide é machista, tornar ruth uma reprodutora, uma chocadeira, satisfazer o marido.</li>
+<li>Melhor cenario governo &gt; tem interesse em ter filho com marido, pouco numero de seguidores &gt; conviver e se olhar no espelho, tem que continuar trocando, essa valvula, crescimento exponencial.</li>
+<li>Pior cenario &gt; coloca valvula de plastico &gt; e deseja ter filhos &gt; a unica coisa que vai ser tirada é a questao da maternidade, emprego e principios intactos, ou esse amor é condicionado a ter ou nao filhos ou ele n é real</li>
+<li>POI 1G &gt; sabendo que todos os remedios passam pelo processo de cobaia -&gt; nao sao todos os remedios, a ruth como uma pessoa desse meio, ela vai ter essa preocupacao, n teria preocpuuacao, se ela já é vegana, n vai fazer esse tipo de esqueci</li>
+<li>veganismo perspectiva interna de contemplacao, ta deixando de contribuir, faz uma propagacao, isso é o sustento dela, causa de vida, n é simplesmente trabalho. preocupado em qual é a melhor opçao pra ruth, a unica pespectiva, unica coisa que ela traz sobre a ruth, negar o veganismo,.</li>
+<li>explica pq ganha do 1g mas isso ta claro</li>
+<li>1op tenta esboçar, n traz pressao da sociedade(mas o joao pedro n explica)</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Created: 2020-10-12 seg 12:17</p>
+</div>
+</body>
+</html>
