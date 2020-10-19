@@ -131,3 +131,9 @@
 [[file:3GVDebates/VoucherEducacaoSwingGV.org][VoucherEducacaoSwing]]
 ** TIIL
 [[file:TIIL/HistoriaComparativaAmericaLatina.org][HistoriaComparativaAmericaLatina.org]]
+** III Open Natal
+[[file:3OpenNatal/PoliticosRedesSociaisAdj.org][PoliticosRedesSociaisAdj]]
+[[file:3OpenNatal/DestinacaoTributosAdj.org][DestinacaoTributosAdj]]
+[[file:3OpenNatal/TheGoodPlaceSistemasAdj.org][TheGoodPlaceSistemasAdj]]
+[[file:3OpenNatal/W3CTomadasAdj.org][W3CTomadasAdj]]
+[[file:3OpenNatal/ProibirFilantropiaAdj.org][ProibirFilantropiaAdj]]
